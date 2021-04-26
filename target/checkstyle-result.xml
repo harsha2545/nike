@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.10">
+<file name="/home/ubuntu/project/nike/src/main/java/nike/AppWebApplication.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="/home/ubuntu/project/nike/src/main/java/nike/AppWebResource.java">
+</file>
+</checkstyle>
